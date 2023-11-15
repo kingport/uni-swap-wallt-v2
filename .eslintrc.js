@@ -2,11 +2,11 @@
 
 require('@uniswap/eslint-config/load')
 
-const rulesDirPlugin = require('eslint-plugin-rulesdir')
-rulesDirPlugin.RULES_DIR = 'eslint_rules'
+// const rulesDirPlugin = require('eslint-plugin-rulesdir')
+// rulesDirPlugin.RULES_DIR = 'eslint_rules'
 
 module.exports = {
-  extends: ['@uniswap/eslint-config/react'],
+  // extends: ['@uniswap/eslint-config/react'],
   plugins: ['rulesdir'],
   overrides: [
     {

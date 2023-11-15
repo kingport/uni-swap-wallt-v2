@@ -11,7 +11,7 @@
     "source.fixAll": true
   },
   "files.eol": "\n",
-  "eslint.enable": true,
+  "eslint.enable": false,
   "eslint.debug": true,
   "[javascript]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
@@ -22,4 +22,5 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
+  "typescript.tsdk": "node_modules/typescript/lib",
 }
