@@ -70,7 +70,7 @@
     "@amplitude/ua-parser-js" "^0.7.31"
     tslib "^2.4.1"
 
-"@amplitude/analytics-client-common@^1.2.0", "@amplitude/analytics-client-common@^1.2.1":
+"@amplitude/analytics-client-common@^1.2.1":
   version "1.2.1"
   resolved "https://registry.npmmirror.com/@amplitude/analytics-client-common/-/analytics-client-common-1.2.1.tgz#9cb2b5b11f1a0fcb6f88e0004191ffbe858cbfa0"
   integrity sha512-K4AUetwWMrSO5ON1Jft2ylvLUvCUctI5UWpG7SluqJJRs112ZwkUlRM9YxKVfJuWaCIQfIXhKbhzSrR0d9mXEg==
@@ -99,11 +99,11 @@
   integrity sha512-V4/h+izhG7NyVfIva1uhe6bToI/l5n+UnEomL3KEO9DkFoKiOG7KmXo/fmzfU6UmD1bUEWmy//hUFF16BfrEww==
 
 "@amplitude/plugin-page-view-tracking-browser@^1.0.11":
-  version "1.0.10"
-  resolved "https://registry.npmmirror.com/@amplitude/plugin-page-view-tracking-browser/-/plugin-page-view-tracking-browser-1.0.10.tgz#665c41a477c2348020d41fa32ac2e962e78da1a6"
-  integrity sha512-J4IyBy2+7Zg8LUEv0KHR3qUVlODzQA/2OUgQaefsWGp0/fNahZ2TUNyPTJ7ug56PfiKAmQPvAhnlcPLVY//scw==
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@amplitude/plugin-page-view-tracking-browser/-/plugin-page-view-tracking-browser-1.0.11.tgz#06eb0a85390cbe10424b58c636848190437cb75c"
+  integrity sha512-u7dJ0zRutj3cqbIASDoi1vBLyCYF/N2V9UunJRL/tSCf93C0E+Jr8h1ewuiHCXVv1w85RDC956hebw5AT+mSzA==
   dependencies:
-    "@amplitude/analytics-client-common" "^1.2.0"
+    "@amplitude/analytics-client-common" "^1.2.1"
     "@amplitude/analytics-types" "^1.3.3"
     tslib "^2.4.1"
 
@@ -6285,10 +6285,10 @@
   resolved "https://registry.npmmirror.com/@uniswap/conedison/-/conedison-1.8.0.tgz#60fcfa1475780350a719510ccee1f6a49f8c5cf8"
   integrity sha512-EeC37bbrd4sJnqW3TxNhExdWUBvzyJDhbTXcbDzFdBh/bg5sOCu1NbYJEnrjwBHEfewc9nF2OjEzejJFyJUx9A==
 
-"@uniswap/default-token-list@^11.2.0", "@uniswap/default-token-list@^11.3.0":
-  version "11.9.0"
-  resolved "https://registry.npmmirror.com/@uniswap/default-token-list/-/default-token-list-11.9.0.tgz#5f22b33b0e4f7f6353cfffb3977ffd9f48c504e8"
-  integrity sha512-Rz441g8iL0XAnc7eTTMWqo8Pd776ory4Pgze/okQvgvp2KMogo/MPbsM67tt7XwjPJKNlhN8fkK1A6fJiBwoKg==
+"@uniswap/default-token-list@^11.11.0", "@uniswap/default-token-list@^11.2.0":
+  version "11.11.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-11.11.0.tgz#270c3cd817275b0c46258bc6a4630207fa9e75e4"
+  integrity sha512-UngPIUcycnKUkFUskRe2SLxAz5Gt/5i3G8XW8m9NJWTXAzfDMJD6wvOsk+gXnSfSBwpGlVPgiJy5f5FRWloTUA==
 
 "@uniswap/eslint-config@^1.2.0":
   version "1.2.0"
